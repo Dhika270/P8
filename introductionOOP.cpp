@@ -7,4 +7,5 @@ class Mahasiswa{
     float nilai;
 
     void prindata(){
-      
+        cout << "Nim :" << nim << endl;
+        
